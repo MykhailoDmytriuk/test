@@ -1,1 +1,1 @@
-input('poN?')
+print("pnon")
